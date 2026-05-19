@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Typing Effect
     const typedTextElement = document.querySelector('.typed-text');
     const textOptions = [
-        'Logistics Analyst',
-        'Environmental Lab Admin',
-        'Data Scientist'
+        'Supply Chain Analyst',
+        'Data Engineering',
+        'Logistics Managemen'
     ];
     let textIndex = 0;
     let charIndex = 0;
